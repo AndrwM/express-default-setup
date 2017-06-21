@@ -1,0 +1,15 @@
+{
+  "name": "express-default-setup",
+  "version": "1.0.0",
+  "description": "quick start scaffold for express apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-default-setup"
+  },
+  "author": "aburka",
+  "license": "ISC"
+}
