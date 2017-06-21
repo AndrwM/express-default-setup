@@ -11,5 +11,8 @@
     "url": "express-default-setup"
   },
   "author": "aburka",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
